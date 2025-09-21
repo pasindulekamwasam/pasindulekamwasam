@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Pasindu Madhusara
 
 ## 🎓 About Me
-- **IT Undergraduate** at SLIIT & UCSC (Y1S1)
+- **IT Undergraduate** at SLIIT & UCSC 
 - **Passionate** about Full Stack Development, Cybersecurity & AI
 - **Currently Learning:** Java Programming
 - **Location:** Sri Lanka 🇱🇰
@@ -37,19 +37,15 @@
 - [ ] Participate in hackathons and coding competitions
 
 ## 📊 GitHub Stats
-![Pasindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=pasindumadhusara&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasindumadhusara&layout=compact&theme=radical)
+![Pasindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=pasindumadhusara&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasindumadhusara&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/pasindulekamwasam/)
 - 📧 Feel free to reach out for collaborations or just to chat about tech!
 
 ## 💡 Fun Facts
-- 🔧 I love working with both hardware and software
 - 📚 Always curious about emerging technologies
 - 🌟 Believe in learning by building projects
-- 🎯 Dream of creating technology that makes a positive impact
 
 ---
 ⭐️ From [pasindumadhusara](https://github.com/pasindumadhusara) | *"Code, Learn, Repeat"* 🚀
