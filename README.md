@@ -1,27 +1,55 @@
-<h1 align="center">Hi 👋, I'm Pasindu Madhusara</h1>
-<h3 align="center">IT Undergraduate | Cybersecurity & AI Enthusiast | Open Source Learner</h3>
+# Hi there! 👋 I'm Pasindu Madhusara
+
+## 🎓 About Me
+- **IT Undergraduate** at SLIIT & UCSC (Y1S1)
+- **Passionate** about Full Stack Development, Cybersecurity & AI
+- **Currently Learning:** Java Programming
+- **Location:** Sri Lanka 🇱🇰
+
+## 🛠️ Tech Stack & Skills
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+### Areas of Interest
+- 🌐 **Full Stack Development** - Building end-to-end web applications
+- 🔐 **Cybersecurity** - Protecting digital assets and systems
+- 🤖 **Artificial Intelligence** - Exploring the future of technology
+- 💻 **IoT Projects** - Creating smart solutions with hardware
+
+## 🚀 Recent Projects
+### 🚰 Water Tank Monitoring System
+- **Tech:** Arduino, Sensors, IoT
+- **Description:** An automated system to monitor and manage water tank levels
+- **Skills Gained:** Hardware programming, sensor integration, system design
+
+## 📈 Current Learning Journey
+- ☕ **Java Programming** - Building strong foundations in OOP
+- 🌱 **Full Stack Development** - Planning to dive into web technologies
+- 🔒 **Cybersecurity Fundamentals** - Understanding security principles
+- 🧠 **AI/ML Basics** - Exploring machine learning concepts
+
+## 🎯 Goals for 2025
+- [ ] Master Java programming fundamentals
+- [ ] Build my first web application
+- [ ] Complete cybersecurity online courses
+- [ ] Contribute to open-source projects
+- [ ] Participate in hackathons and coding competitions
+
+## 📊 GitHub Stats
+![Pasindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=pasindumadhusara&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasindumadhusara&layout=compact&theme=radical)
+
+## 🤝 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/pasindulekamwasam/)
+- 📧 Feel free to reach out for collaborations or just to chat about tech!
+
+## 💡 Fun Facts
+- 🔧 I love working with both hardware and software
+- 📚 Always curious about emerging technologies
+- 🌟 Believe in learning by building projects
+- 🎯 Dream of creating technology that makes a positive impact
 
 ---
-
-### 🌟 About Me
-- 🎓 **IT (Special) Degree** at SLIIT | **External BIT** at UCSC  
-- 💻 Passionate about **Cybersecurity**, **AI**, and **Data Science**  
-- 🌱 Currently learning: **Machine Learning**, **Cloud Security**  
-- 📫 Reach me at: [LinkedIn | [Email  
-
----
-
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoe-stats.vercel.app/api?username=pasindumadhusara&show_icons=true&theme=radical
-  <img src="https://streak-stats.demolab.com?user=pasindumadhusara&theme=radical" alt="GitHub Stguages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?asindumadhusara&layout=compact&theme=radical
-</p>
-
----
-
-### 🌐 Connect with Me
-<p align="center">
-  https://www.linkedin.com/in/pasindulekamwasam<img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&din&logoColor=white</a>
-  mailto:4350pasindu@gmail.com<img src="https://img.shields.ioil-D14836?style=for-the-badge&logo=gmail&logoColor=white</a>
-</p>
+⭐️ From [pasindumadhusara](https://github.com/pasindumadhusara) | *"Code, Learn, Repeat"* 🚀
