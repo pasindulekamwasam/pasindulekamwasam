@@ -51,4 +51,4 @@
 - 🌟 Believe in learning by building projects
 
 ---
-⭐️ From [pasindumadhusara](https://github.com/pasindumadhusara) | *"Code, Learn, Repeat"* 🚀
+⭐️ From [pasindulekamwasam](https://github.com/pasindulekamwasam) | *"Code, Learn, Repeat"* 🚀
