@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Pasindu Madhusara
+# Hi there! 👋 I'm Pasindu Lekamwasam
 
 ## 🎓 About Me
 - **IT Undergraduate** at SLIIT & UCSC 
