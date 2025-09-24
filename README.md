@@ -38,8 +38,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindumadhusara&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" height="165">
-  <img src="https://github-readme-stats.vercel.app/api?username=pasindumadhusara&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindulekamwasam&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=pasindulekamwasam&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165">
 </div>
 
 ## 🤝 Let's Connect!
