@@ -37,7 +37,7 @@
 - [ ] Participate in hackathons and coding competitions
 
 ## 📊 GitHub Stats
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pasindulekamwasam&theme=react-dark&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pasindulekamwasam&custom_title=My%20GitHub%20Activity&theme=react-dark&hide_border=true&area=true)
 
 ## 🤝 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/pasindulekamwasam/)
