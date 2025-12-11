@@ -37,10 +37,7 @@
 - [ ] Participate in hackathons and coding competitions
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindulekamwasam&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" height="165">
-  <img src="https://github-readme-stats.vercel.app/api?username=pasindulekamwasam&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165">
-</div>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pasindulekamwasam&theme=react-dark&hide_border=true&area=true)
 
 ## 🤝 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/pasindulekamwasam/)
